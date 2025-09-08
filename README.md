@@ -26,5 +26,5 @@ This project predicts used car prices using machine learning. It applies data pr
 3. Run all cells to reproduce results
 
 Note: The original dataset is large and has not been included here. 
-For demonstration, a sample dataset (sample_dataset.csv) is provided. 
+For demonstration, a sample dataset (sample_submission.csv) is provided. 
 The code works the same way with the full dataset.
