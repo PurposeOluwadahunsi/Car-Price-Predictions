@@ -24,3 +24,7 @@ This project predicts used car prices using machine learning. It applies data pr
 1. Install requirements: `pip install -r requirements.txt`
 2. Open the notebook: `jupyter notebook Purpose_Car_Price_Prediction.ipynb`
 3. Run all cells to reproduce results
+
+Note: The original dataset is large and has not been included here. 
+For demonstration, a sample dataset (sample_dataset.csv) is provided. 
+The code works the same way with the full dataset.
